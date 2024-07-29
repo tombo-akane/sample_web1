@@ -7,6 +7,10 @@ This is just so I don't forget what I added, so it doesn't follow a specific for
 
 </br>
 
+### [2024-07-30-1]
+- 目次を追加しようとした
+- css装飾する前に力尽きた
+
 ### [2024-07-29]
 - jQueryを入れるだけ入れた
 - ヘッダーを白くして影をつけた

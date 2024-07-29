@@ -29,6 +29,13 @@ header {
   padding: 0 20px;
 }
 
+.tableOfContents {
+  background-color: #fff4df;
+  color: #000;
+  font-size: medium;
+  margin: 16px;
+}
+
 footer {
   background: #efefef;
 }
