@@ -7,6 +7,11 @@ This is just so I don't forget what I added, so it doesn't follow a specific for
 
 </br>
 
+### [2024-07-30-3]
+- 目次に更新履歴を追加
+- mailgoを使うように、またそれに伴って正しいメールアドレスを設定
+- faviconを設定
+
 ### [2024-07-30-2]
 - 目次をちゃんとした
 - 文章をちゃんとした
