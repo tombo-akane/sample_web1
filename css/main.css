@@ -8,6 +8,10 @@ header {
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.12);
 }
 
+.headerLogo {
+  max-height: 100px;
+}
+
 .headerInner {
   max-width: 1280px;
   width: 100%;
@@ -30,13 +34,48 @@ header {
 }
 
 .contents {
-  background-color: #fff4df;
-  color: #000;
-  font-size: medium;
-  margin: 16px;
+  background-color: #fcfcfc;
+  padding: 0.3em 0.3em 0.3em 2em;
+  border: solid 3px gray;
+  width: 40%;
+  min-width: 150px;
+  margin-top: 4em;
+  margin-bottom: 1em;
+}
+
+.contents_list {
+  line-height: 1.5;
+  padding: 0.5em 1;
+}
+
+.mainInner_main {
+  float: left;
+  margin-bottom: 4em;
+  max-width: 80%;
+}
+
+.changeLog {
+  clear: both;
+}
+
+.textTitle {
+  line-height: 200%;
+}
+
+.text {
+  line-height: 70%;
+}
+
+#changelog {
+  width: 800px;
+  min-width: 50%;
+  max-width: 80%;
+  height: 500px;
+  min-height: 20%;
 }
 
 footer {
+  clear: both;
   background: #efefef;
 }
 

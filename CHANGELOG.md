@@ -7,6 +7,12 @@ This is just so I don't forget what I added, so it doesn't follow a specific for
 
 </br>
 
+### [2024-07-30-2]
+- 目次をちゃんとした
+- 文章をちゃんとした
+- 余白を少し整えた
+- ChangeLogをindex.htmlから見れるようにした
+
 ### [2024-07-30-1]
 - 目次を追加しようとした
 - css装飾する前に力尽きた
