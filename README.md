@@ -1,7 +1,7 @@
 # sample_web1
 
 This web page is for my practice as well as a sample. I don't think it is very helpful.</br>
-サンプル兼練習用のwebページです。ほとんど自分の勉強用です。あまり参考にはならないと思います。</br>
+練習用のwebページです。完全に自分の勉強用です。参考にはならないと思います。</br>
 
 </br>
 
